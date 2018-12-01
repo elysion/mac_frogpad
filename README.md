@@ -6,7 +6,7 @@ using the default keyboard
 -   [Karabiner-Elements](https://pqrs.org/osx/karabiner/files/Karabiner-Elements-12.1.0.dmg)
 -   Download (use entire line):
 
-    -   <karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/stevenmchoi/my_frogpad/master/frogpad-left-v2.json>
+    -   <karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/elysion/mac_frogpad/master/default_keyboard_v2.json>
 
 -   **NOTE**: _Only working on left hand configuration for now_
 
