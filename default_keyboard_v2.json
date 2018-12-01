@@ -363,7 +363,7 @@
                     }
                 },
                 "to": [{
-                    "key_code": "-"
+                    "key_code": "dash"
                 }],
                 "type": "basic"
             },
@@ -381,7 +381,7 @@
                     }
                 },
                 "to": [{
-                    "key_code": "."
+                    "key_code": "dot"
                 }],
                 "type": "basic"
             },
@@ -399,7 +399,7 @@
                     }
                 },
                 "to": [{
-                    "key_code": ","
+                    "key_code": "comma"
                 }],
                 "type": "basic"
             },
