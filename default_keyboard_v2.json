@@ -15,7 +15,7 @@
                 "to": [{
                     "key_code": "right_control"
                 }],
-                "to_if_alone": [{
+                "to_if_hlone": [{
                     "key_code": "spacebar"
                 }],
                 "type": "basic"
@@ -124,7 +124,7 @@
                     }
                 },
                 "to": [{
-                    "key_code": "ä"
+                    "key_code": "quote"
                 }],
                 "type": "basic"
             },
@@ -142,7 +142,7 @@
                     }
                 },
                 "to": [{
-                    "key_code": "ö"
+                    "key_code": "l"
                 }],
                 "type": "basic"
             },
@@ -160,7 +160,7 @@
                     }
                 },
                 "to": [{
-                    "key_code": "l"
+                    "key_code": "k"
                 }],
                 "type": "basic"
             },
@@ -178,7 +178,7 @@
                     }
                 },
                 "to": [{
-                    "key_code": "k"
+                    "key_code": "j"
                 }],
                 "type": "basic"
             },
@@ -196,7 +196,7 @@
                     }
                 },
                 "to": [{
-                    "key_code": "j"
+                    "key_code": "h"
                 }],
                 "type": "basic"
             },
