@@ -20,7 +20,23 @@
                 }],
                 "type": "basic"
             },
-
+            {
+                "from": {
+                    "key_code": "tab",
+                    "modifiers": {
+                        "mandatory": [
+                            "right_control"
+                        ],
+                        "optional": [
+                            "any"
+                        ]
+                    }
+                },
+                "to": [{
+                    "key_code": "delete_or_backspace"
+                }],
+                "type": "basic"
+            },
             {
                 "from": {
                     "key_code": "q",
