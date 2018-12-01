@@ -15,7 +15,7 @@
                 "to": [{
                     "key_code": "right_control"
                 }],
-                "to_if_hlone": [{
+                "to_if_alone": [{
                     "key_code": "spacebar"
                 }],
                 "type": "basic"
