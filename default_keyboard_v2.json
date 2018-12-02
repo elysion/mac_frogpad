@@ -56,6 +56,32 @@
             },
             {
                 "from": {
+                    "key_code": "grave_accent_or_tilde"
+                },
+                "to": [{
+                    "key_code": "comma"
+                }],
+                "type": "basic"
+            },
+            {
+                "from": {
+                    "key_code": "grave_accent_or_tilde",
+                    "modifiers": {
+                        "mandatory": [
+                            "right_control"
+                        ],
+                        "optional": [
+                            "any"
+                        ]
+                    }
+                },
+                "to": [{
+                    "key_code": "period"
+                }],
+                "type": "basic"
+            },
+            {
+                "from": {
                     "key_code": "q",
                     "modifiers": {
                         "mandatory": [
